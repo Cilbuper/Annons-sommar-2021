@@ -1,5 +1,3 @@
-# Annons-sommar-2021
-Annons
 Är du en schyssta, modig och nyfiken utvecklare? 
 
 Vi på Cilbuper vill bli ännu fler. Därför söker vi nu dig som vill vara med på ett spännande äventyr tillsammans med oss. Vart den tar oss vet vi inte riktigt, men det vi vet är att vi kommer behöva flera nya medarbetare inom systemutveckling för att hjälpa våra kunder att bygga morgondagens produkter.
@@ -26,6 +24,6 @@ Detta är troligtvis en av de luddigaste annonser du läst, men vi vet helt ärl
 
 Om du är intresserad av att veta mer om oss kan vi även koppla ihop dig med en av våra anställda som kan ge dig en bild om hur det är att arbeta här. 
 
-Här börjar resan! https://pnty-apply.ponty-system.se/cilbuper?id=1
+Här börjar resan! https://pnty-apply.ponty-system.se/cilbuper?id=20
 
 Vi ses snart 😊 Johan, Fredrik, Karolina, Ellen & Helena
